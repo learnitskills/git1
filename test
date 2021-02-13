@@ -5,4 +5,8 @@ catalin   commit-4
 harry     commit-5
 hp        commit-6
 boston    commit-7
+<<<<<<< HEAD
 catalin   commit-8-catalin
+=======
+boston     commit-8
+>>>>>>> b6b096e3c1687540d542b772cad2b38999aa52f7
